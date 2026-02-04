@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the code implementation for the paper *"Universality of Many-body Projected Ensemble for Learning Quantum Data Distribution"* submitted to ICLR 2026. The codebase provides tools and scripts to replicate the experiments described in the paper, focusing on learning quantum data distributions using the Many-body Projected Ensemble (MPE) framework.
+This repository contains the code implementation for the paper *"Universality of Many-body Projected Ensemble for Learning Quantum Data Distribution"* (https://arxiv.org/abs/2601.18637). The codebase provides tools and scripts to replicate the experiments described in the paper, focusing on learning quantum data distributions using the Many-body Projected Ensemble (MPE) framework.
 
 ## Repository Structure
 
